@@ -1,3 +1,4 @@
 Mon titre
 Chapitre 1
 //TODO:Ecrire le chapitre 1
+"Mon proverbe c'est fck les gens c'est tous des connards"
